@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66658ff3-af2c-4e95-9bac-87e0cd2c062e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB3XLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab001.py" afterDir="false" />
+    <list default="true" id="66658ff3-af2c-4e95-9bac-87e0cd2c062e" name="Changes" comment="Test push">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -74,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718479788406</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test push">
+      <option name="closed" value="true" />
+      <created>1718480818097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718480818097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test push" />
   </component>
 </project>
