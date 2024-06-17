@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66658ff3-af2c-4e95-9bac-87e0cd2c062e" name="Changes" comment="Test push">
-      <change afterPath="$PROJECT_DIR$/07062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10062024/Lab no025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10062024/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10062024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10062024/Labno024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07062024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/07062024/Lab023.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +62,14 @@
     "Python.Lab020.executor": "Run",
     "Python.Lab021.executor": "Run",
     "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Labno024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -99,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718485288058</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test push">
+      <option name="closed" value="true" />
+      <created>1718530978394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718530978394</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
