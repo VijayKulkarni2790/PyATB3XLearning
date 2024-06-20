@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66658ff3-af2c-4e95-9bac-87e0cd2c062e" name="Changes" comment="Test push">
-      <change afterPath="$PROJECT_DIR$/10062024/Lab no025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10062024/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10062024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10062024/Labno024.py" afterDir="false" />
+    <list default="true" id="66658ff3-af2c-4e95-9bac-87e0cd2c062e" name="Changes" comment="file added">
+      <change afterPath="$PROJECT_DIR$/12062024/Lab no 036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12062024/Lab0028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12062024/Lab0029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12062024/Lab0030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12062024/Lab0031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12062024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12062024/Labno 0031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14062024/Lab no 033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14062024/Lab no 034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14062024/Lab no 035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14062024/Lab no 32.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07062024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/07062024/Lab023.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +58,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab no 033.executor": "Run",
+    "Python.Lab no 034.executor": "Run",
+    "Python.Lab no 035.executor": "Run",
+    "Python.Lab no 32.executor": "Run",
+    "Python.Lab no025.executor": "Run",
     "Python.Lab001.executor": "Run",
+    "Python.Lab0028.executor": "Run",
+    "Python.Lab0029.executor": "Run",
+    "Python.Lab0030.executor": "Run",
+    "Python.Lab0031.executor": "Run",
     "Python.Lab014.executor": "Run",
     "Python.Lab015.executor": "Run",
     "Python.Lab016.executor": "Run",
@@ -65,6 +80,8 @@
     "Python.Lab023.executor": "Run",
     "Python.Lab024.executor": "Run",
     "Python.Lab025.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Labno 0031.executor": "Run",
     "Python.Labno024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -112,11 +129,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718530978394</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="file added">
+      <option name="closed" value="true" />
+      <created>1718613139513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718613139514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test push" />
+    <MESSAGE value="file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="file added" />
   </component>
 </project>
